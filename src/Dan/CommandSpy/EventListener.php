@@ -4,7 +4,7 @@ namespace Dan\CommandSpy;
 
 use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerCommandPreprocessEvent;
-use tim03we\CommandSpy\Main;
+us
 
 class EventListener implements Listener {
 	public $plugin;
