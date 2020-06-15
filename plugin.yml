@@ -1,0 +1,24 @@
+name: SPY+
+
+main: Dan\CommandSpy\Main
+
+version: 1.0.0
+
+api: 3.0.0
+
+author: Dan
+
+description: Mode SPY (voir les mp des bg)
+
+commands:
+
+  spy:
+
+    description: '§PY ACTIVÉ Requis : permission commandspy.cmd'
+
+permissions:
+
+   commandspy.cmd:
+
+    default: op
+
